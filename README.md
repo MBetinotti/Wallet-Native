@@ -1,4 +1,6 @@
-# Wellcome to Moonbank 🤗
+![](/assets/sinfondo.png)
+# Wellcome to Moonbank
+
 
 ## Virtual Wallet with Firebase and React-Native
 
@@ -8,11 +10,14 @@
 
 ### Visualization
 
-You can run the App in three ways:
+`npm start`
 
-- Your Phone _(Downloading the Expo App from PlayStore)_
+You can run the App in four ways:
+
+- In the ExpoGo app on your Phone _(Downloading the Expo App from PlayStore and read the QR code)_
 - Your Web Browser _(`expo start`)_
 - An Android simulator like Android Studio or Visor _(`expo start`)_
+- Download the apk [MoonBank](https://expo.io/artifacts/2765fdbf-7b2d-4f5b-a16b-ab77f67498a6) app
 
 ---
 
@@ -48,3 +53,46 @@ import PropTypes from "prop-types";
 <a href='https://youtu.be/L2yQqAn2gy4' target='_blank'>
   <img width='50%' src='./assets/screens.jpeg' alt='MoonBank' />
 </a>
+
+###Some Images from our proyect
+> Login.
+
+![](https://i.ibb.co/M2hj5xZ/login.jpg)
+
+> Home.
+
+![](https://i.ibb.co/F0nd7kR/principal.jpg)
+
+![](https://i.ibb.co/PYWBZ7m/navbar.jpg)
+
+> Dark Mode.
+
+![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)
+
+> Make Transfers.
+
+![](https://i.ibb.co/hdHtqg4/transferencias.jpg)
+
+> Graph of your movements.
+
+![](https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg)
+
+> MoonBank Card.
+
+![]()
+
+>Contacts in the app.
+
+![](https://i.ibb.co/M5VhnCC/contactos-oscuro.jpg)
+
+> Add your credits Cards.
+
+![](https://i.ibb.co/mTRxVhG/ingresartarjetas.jpg)
+
+> Add your fingerprint and make your transactions more secure. and more..
+
+![](https://i.ibb.co/S5HxGmm/ajustes.jpg)
+
+
+
+

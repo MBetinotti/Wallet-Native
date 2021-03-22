@@ -1,4 +1,4 @@
-<img width='50px' height='50px' src="/assets/sinfondo.png"/>
+<img width='150px' height='150px' src="/assets/sinfondo.png"/>
 
 
 # Wellcome to Moonbank
@@ -59,7 +59,7 @@ import PropTypes from "prop-types";
 ###Some Images from our proyect
 > Login.
 
-![](https://i.ibb.co/M2hj5xZ/login.jpg)
+<img width='50% src="https://i.ibb.co/M2hj5xZ/login.jpg" />
 
 > Home.
 

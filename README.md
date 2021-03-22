@@ -70,19 +70,19 @@ import PropTypes from "prop-types";
     <td><img src="https://i.ibb.co/PYWBZ7m/navbar.jpg" width=220 height=480></td>
   </tr>
   </table>
-  <table>
+  <table  align="center">
    <tr>
     <td>Dark Mode</td>
      <td>Transfers</td>
      <td>Graph of your movements.</td>
   </tr>
   <tr>
-    <td>![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)</td>
+  <td><div align="center"  width=220 height=480>![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)</div></td>
     <td><img src="https://i.ibb.co/hdHtqg4/transferencias.jpg" width=220 height=480></td>
     <td><img src="https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg" width=220 height=480></td>
   </tr>
   </table>
-  <table>
+  <table  align="center">
    <tr>
     <td> MoonBank Card.</td>
      <td>Contacts in the app.</td>

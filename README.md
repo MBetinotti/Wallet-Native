@@ -48,6 +48,8 @@ import PropTypes from "prop-types";
 ```javascript
 //import PropTypes from "prop-types";
 ```
+------------
+
 
 #### 📹 Workflow video of [MoonBank Wallet](https://youtu.be/L2yQqAn2gy4)
 
@@ -56,15 +58,21 @@ import PropTypes from "prop-types";
 </a>
 
 ### Some Images from our proyect
+
+
+
+
+
 > Login.
 
-<img height='350px' src="https://i.ibb.co/M2hj5xZ/login.jpg" />
+<img height='450px' src="https://i.ibb.co/M2hj5xZ/login.jpg" />
+
 
 > Home.
 
-![](https://i.ibb.co/F0nd7kR/principal.jpg)
+<img height='450px' src="https://i.ibb.co/F0nd7kR/principal.jpg" />
 
-![](https://i.ibb.co/PYWBZ7m/navbar.jpg)
+<img height='450px' src="https://i.ibb.co/PYWBZ7m/navbar.jpg" />
 
 > Dark Mode.
 
@@ -72,28 +80,27 @@ import PropTypes from "prop-types";
 
 > Make Transfers.
 
-![](https://i.ibb.co/hdHtqg4/transferencias.jpg)
+<img height='450px' src="https://i.ibb.co/hdHtqg4/transferencias.jpg" />
 
 > Graph of your movements.
 
-![](https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg)
+<img height='450px' src="https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg" />
 
 > MoonBank Card.
 
-![]()
+<img height='450px' src="https://i.ibb.co/SdS8zPX/mooncard.jpg" />
 
 >Contacts in the app.
 
-![](https://i.ibb.co/M5VhnCC/contactos-oscuro.jpg)
+<img height='450px' src="https://i.ibb.co/M5VhnCC/contactos-oscuro.jpg" />
 
 > Add your credits Cards.
 
-![](https://i.ibb.co/mTRxVhG/ingresartarjetas.jpg)
+<img height='450px' src="https://i.ibb.co/mTRxVhG/ingresartarjetas.jpg" />
 
 > Add your fingerprint and make your transactions more secure. and more..
 
-![](https://i.ibb.co/S5HxGmm/ajustes.jpg)
-
+<img height='450px' src="https://i.ibb.co/S5HxGmm/ajustes.jpg" />
 
 
 

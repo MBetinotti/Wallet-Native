@@ -77,7 +77,7 @@ import PropTypes from "prop-types";
      <td>Graph of your movements.</td>
   </tr>
   <tr>
-  <td><div align="center"  width=220 height=480>![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)</div></td>
+  <td><img src="https://i.ibb.co/LnRYY2G/princial-oscuro.jpg" width=220 height=480></td>
     <td><img src="https://i.ibb.co/hdHtqg4/transferencias.jpg" width=220 height=480></td>
     <td><img src="https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg" width=220 height=480></td>
   </tr>

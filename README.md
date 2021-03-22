@@ -1,6 +1,5 @@
-<div width='50px' height='50px'}>
-  <img src="/assets/sinfondo.png"/>
-</div>
+<img width='50px' height='50px' src="/assets/sinfondo.png"/>
+
 
 # Wellcome to Moonbank
 

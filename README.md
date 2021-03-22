@@ -1,3 +1,7 @@
+<div style={width:50px, height:50px}>
+  <img src="/assets/sinfondo.png"/>
+</div>
+
 ![](/assets/sinfondo.png)
 # Wellcome to Moonbank
 

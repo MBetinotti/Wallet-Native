@@ -1,7 +1,5 @@
-<img width='150px' height='150px' src="/assets/sinfondo.png"/>
 
-
-# Wellcome to Moonbank
+# Wellcome to Moonbank <img width='150px' height='150px' src="/assets/sinfondo.png"/> 
 
 
 ## Virtual Wallet with Firebase and React-Native
@@ -59,7 +57,7 @@ import PropTypes from "prop-types";
 ###Some Images from our proyect
 > Login.
 
-<img width='50% src="https://i.ibb.co/M2hj5xZ/login.jpg" />
+<img width='50%' src="https://i.ibb.co/M2hj5xZ/login.jpg" />
 
 > Home.
 

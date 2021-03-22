@@ -58,49 +58,42 @@ import PropTypes from "prop-types";
 </a>
 
 ### Some Images from our proyect
-
-
-
-
-
-> Login.
-
-<img height='450px' src="https://i.ibb.co/M2hj5xZ/login.jpg" />
-
-
-> Home.
-
-<img height='450px' src="https://i.ibb.co/F0nd7kR/principal.jpg" />
-
-<img height='450px' src="https://i.ibb.co/PYWBZ7m/navbar.jpg" />
-
-> Dark Mode.
-
-![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)
-
-> Make Transfers.
-
-<img height='450px' src="https://i.ibb.co/hdHtqg4/transferencias.jpg" />
-
-> Graph of your movements.
-
-<img height='450px' src="https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg" />
-
-> MoonBank Card.
-
-<img height='450px' src="https://i.ibb.co/SdS8zPX/mooncard.jpg" />
-
->Contacts in the app.
-
-<img height='450px' src="https://i.ibb.co/M5VhnCC/contactos-oscuro.jpg" />
-
-> Add your credits Cards.
-
-<img height='450px' src="https://i.ibb.co/mTRxVhG/ingresartarjetas.jpg" />
-
-> Add your fingerprint and make your transactions more secure. and more..
-
-<img height='450px' src="https://i.ibb.co/S5HxGmm/ajustes.jpg" />
+<table align="center">
+  <tr>
+    <td>Login View</td>
+     <td>Home Screen</td>
+     <td>Side Menu</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/M2hj5xZ/login.jpg" width=220 height=480></td>
+    <td><img src="https://i.ibb.co/F0nd7kR/principal.jpg" width=220 height=480></td>
+    <td><img src="https://i.ibb.co/PYWBZ7m/navbar.jpg" width=220 height=480></td>
+  </tr>
+  </table>
+  <table>
+   <tr>
+    <td>Dark Mode</td>
+     <td>Transfers</td>
+     <td>Graph of your movements.</td>
+  </tr>
+  <tr>
+    <td>![](https://media.giphy.com/media/3NGeVNV1PUUDmiNblz/giphy.gif)</td>
+    <td><img src="https://i.ibb.co/hdHtqg4/transferencias.jpg" width=220 height=480></td>
+    <td><img src="https://i.ibb.co/m6pjHqk/balance-gastos-oscuro.jpg" width=220 height=480></td>
+  </tr>
+  </table>
+  <table>
+   <tr>
+    <td> MoonBank Card.</td>
+     <td>Contacts in the app.</td>
+     <td>Add your fingerprint and more..</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/SdS8zPX/mooncard.jpg" width=220 height=480></td>
+    <td><img src="https://i.ibb.co/M5VhnCC/contactos-oscuro.jpg" width=220 height=480></td>
+    <td><img src="https://i.ibb.co/S5HxGmm/ajustes.jpg" width=220 height=480></td>
+  </tr>
+ </table>
 
 
 
